@@ -20,7 +20,6 @@ To install JS software or files with node package manager. `-g` means to install
 
 `npm install -g`
 
-
 Deinstall JS Software or Files, which were installed globaly with node package maker. Ater `-g` you have to write the name of the software.
 
 `npm uninstall -g`
